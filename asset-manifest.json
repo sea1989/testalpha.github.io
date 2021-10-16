@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/testalpha.github.io/static/css/main.8daa176e.chunk.css",
+    "main.js": "/testalpha.github.io/static/js/main.1d6acc53.chunk.js",
+    "main.js.map": "/testalpha.github.io/static/js/main.1d6acc53.chunk.js.map",
+    "runtime-main.js": "/testalpha.github.io/static/js/runtime-main.9fd2877d.js",
+    "runtime-main.js.map": "/testalpha.github.io/static/js/runtime-main.9fd2877d.js.map",
+    "static/js/2.77f1a756.chunk.js": "/testalpha.github.io/static/js/2.77f1a756.chunk.js",
+    "static/js/2.77f1a756.chunk.js.map": "/testalpha.github.io/static/js/2.77f1a756.chunk.js.map",
+    "index.html": "/testalpha.github.io/index.html",
+    "static/css/main.8daa176e.chunk.css.map": "/testalpha.github.io/static/css/main.8daa176e.chunk.css.map",
+    "static/js/2.77f1a756.chunk.js.LICENSE.txt": "/testalpha.github.io/static/js/2.77f1a756.chunk.js.LICENSE.txt",
+    "static/media/close.82a41896.svg": "/testalpha.github.io/static/media/close.82a41896.svg",
+    "static/media/App.css": "/testalpha.github.io/static/media/icon.834d5c26.svg",
+    "static/media/like.cea9885d.svg": "/testalpha.github.io/static/media/like.cea9885d.svg",
+    "static/media/nolike.587fda78.svg": "/testalpha.github.io/static/media/nolike.587fda78.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fd2877d.js",
+    "static/js/2.77f1a756.chunk.js",
+    "static/css/main.8daa176e.chunk.css",
+    "static/js/main.1d6acc53.chunk.js"
+  ]
+}

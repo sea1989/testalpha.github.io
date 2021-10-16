@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Styrene A Web';
+  font-weight: normal;
+  font-style: normal;
+  src: local('StyreneAWeb Regular'), local('StyreneAWeb-Regular'),
+    url('../font/StyreneAWeb-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Styrene A Web';
+  font-weight: bold;
+  font-style: normal;
+  src: local('StyreneAWeb Bold'), local('StyreneAWeb-Bold'),
+    url('../font/StyreneAWeb-Bold.woff2') format('woff2');
+}
