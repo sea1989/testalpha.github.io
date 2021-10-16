@@ -74,7 +74,7 @@ export default class App extends React.Component {
             <span className='footer__test--title'>Итоговая аттестация</span>
 
             <ul className='footer__test--list'>
-              <li className='footer__test--item'>Бизнес-проектирование (подготовка итоговой аттестационной работы, консультирование по бизнес-проектированию)</li>
+              <li className='footer__test--item'>Бизнес-проектирование (подготовка итоговой аттестационной работы, консультирование по проектированию)</li>
               <li className='footer__test--item'>Защита итоговой аттестационной работы
               </li>
             </ul>
